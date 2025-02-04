@@ -1,4 +1,8 @@
 # Backend
+
+
+first head over to the directory then install all the necessary packages by 
+command   npm i
 Ejs with node.js using middleware
 
 custom middlewares is used
